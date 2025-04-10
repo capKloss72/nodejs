@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "requirejs": "^2.3.7"
+  },
+  "devDependencies": {
+    "babel": "^5.8.38",
+    "babel-cli": "^6.26.0"
+  }
+}
